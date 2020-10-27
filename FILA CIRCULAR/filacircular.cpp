@@ -48,9 +48,7 @@ int main()
     }
     //return 0;
     system("pause");
-
 }
-using namespace std;
 
 
 void enfileirar(int elemento)
@@ -75,6 +73,5 @@ void desenfileirar()
     }else{
         comeco++;
         tamanho--;
-
     }
 }
