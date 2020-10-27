@@ -95,6 +95,8 @@ void enfileira(queue& fil)
     }
 }
 
+
+
 void desenfileira(queue& fil)
 {
     if(fil.inicio > fil.fim) //testando se a fila está vazia
