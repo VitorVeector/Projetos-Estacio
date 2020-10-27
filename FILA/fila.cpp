@@ -31,7 +31,7 @@ int main()
     do
     {
         system("cls");
-        system("2f");
+        system("color 2f");
 
         cout << "FILA (FIFO - FIRST IN - FIRST OUT" << endl;
         cout << endl;
